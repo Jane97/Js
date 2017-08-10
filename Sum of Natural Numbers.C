@@ -7,6 +7,6 @@ for(i=0;i<a;i++)
 {
 sum+=i;
 }
-printf("The sum of natural number:%d",sum);
+printf("\nsum of natural number:%d",sum);
 return 0;
 }
